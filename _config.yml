@@ -1,0 +1,12 @@
+# GitHub Pages configuration for Privacy Policies site
+title: Privacy Policies
+description: A collection of privacy policies for our applications and services
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from build
+exclude:
+  - README.md
+  - LICENSE
